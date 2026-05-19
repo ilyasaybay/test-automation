@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache/
+.Ds_Store
+*.pyc
+*.pyo
+*.log
+*.save
+venv/
+.env
+failure.png
