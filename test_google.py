@@ -8,3 +8,4 @@ def test_google_open():
     assert "Google" in driver.title
 
     driver.quit()
+
